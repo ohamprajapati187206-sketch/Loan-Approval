@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loan Approval Clasiification
 ### Project setup
 1) create virtual environment
@@ -44,3 +45,6 @@ Analyze key features, distribution patterns, and relationships to understand cre
 
 Classification: 
 Build predictive models to classify the loan_status variable (approved/not approved) for potential applicants.
+=======
+# Loan-Approval
+>>>>>>> 501f0b411348a728241339d6b688071a4f69b85d
